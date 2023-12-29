@@ -1,0 +1,393 @@
+{
+  "main": {
+    "name": "Lokesh Naganaboina",
+    "shortDesc": "I am Lokesh Naganaboina, a dedicated Master's student in Computer Science at Clemson University, specializing in Data Science.",
+    "titles": [
+      "Software Engineering",
+      "Frontend Development",
+      "Backend Development",
+      "Data Science"
+    ],
+    "heroImage": "/lokesh.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/48/react-native.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/48/000000/python--v1.png",
+      "https://img.icons8.com/color/144/null/javascript--v1.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "/bg_pic.jpg",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "Aspiring Software Developer",
+    "about": "I'm Lokesh Naganaboina, a Master's graduate in Computer Science from Clemson University, specializing in Data Science and Security. My studies covered a range of topics, including Distributed Computing, Data Visualization to Human-Computer Interaction, equipping me with a deep understanding of both Data Science and Cybersecurity. Through Internships, I've applied this knowledge in Software Engineering and Web Development, tackling technical challenges and contributing to team projects. Skilled in Python, JavaScript, and various Front-end and Back-end Technologies, I'm ready to make impactful contributions in Software Engineering.",
+    "callUrl": "https://us05web.zoom.us/j/9197627233?pwd=bhbFAJ8pyuSbStWgkbZbV5br8xbvI7.1",
+    "resumeUrl": "https://drive.google.com/file/d/1AYW3PdWis0UBqVfZQ7PL0bwYFyPEUpjw/view?usp=sharing"
+  },
+
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/lokeshnaganaboina/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/LokeshNaganaboina"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/lokesh_naganaboina"
+    },
+    {
+      "icon": "FaFacebook",
+      "link": "https://www.facebook.com/lokesh.naganaboina.58/"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/LokeNaganaboina/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/480/python--v1.png",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/480/javascript--v1.png",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "Java",
+      "image": "https://img.icons8.com/color/480/java-coffee-cup-logo--v1.png",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "C",
+      "image": "https://img.icons8.com/color/480/c-programming.png",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "HTML",
+      "image": "https://img.icons8.com/color/480/html-5--v1.png" ,
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS",
+      "image": "https://img.icons8.com/color/480/css3.png" ,
+      "category": "Frontend"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://img.icons8.com/color/480/bootstrap--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Sass",
+      "image": "https://img.icons8.com/color/480/sass.png" ,
+      "category": "Frontend"
+    }, 
+    {
+      "name": "Tailwind CSS",
+      "image": "https://img.icons8.com/color/480/tailwind_css.png" ,
+      "category": "Frontend"
+    },
+    {
+      "name": "React.JS",
+      "image": "https://img.icons8.com/ultraviolet/480/react--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Redux",
+      "image": "https://img.icons8.com/color/480/redux.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Node JS",
+      "image": "https://img.icons8.com/windows/512/node-js.png" ,
+      "category": "Backend"
+    },
+    {
+      "name": "Express JS",
+      "image": "https://img.icons8.com/fluency/480/express-js.png",
+      "category": "Backend"
+    },
+    {
+      "name": "JWT",
+      "image": "https://img.icons8.com/color/480/java-web-token.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Django",
+      "image": "https://img.icons8.com/ios/500/django.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Flask",
+      "image": "https://img.icons8.com/ios/500/flask.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/480/google-firebase-console.png",
+      "category": "Backend"
+    },
+    {
+      "name": "SQL",
+      "image": "https://img.icons8.com/color/96/sql.png" ,
+      "category": "Databases"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://img.icons8.com/color/96/mysql--v1.png",
+      "category": "Databases"
+    },
+    {
+      "name": "Postgre Sql",
+      "image": "https://img.icons8.com/color/480/postgreesql.png",
+      "category": "Databases"
+    },
+    {
+      "name": "MongoDB",
+      "image": "https://img.icons8.com/color/480/mongodb.png" ,
+      "category": "Databases"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/windows/512/github.png" ,
+      "category": "Tools"
+    },
+    {
+      "name": "Git",
+      "image": "https://img.icons8.com/color/480/git.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Docker",
+      "image": "https://img.icons8.com/color/480/docker.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Linux",
+      "image": "https://img.icons8.com/color/96/linux--v1.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Figma",
+      "image": "https://img.icons8.com/color/480/figma--v1.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Amazon S3",
+      "image": "https://img.icons8.com/color/480/amazon-s3.png",
+      "category": "Cloud"
+    },
+    {
+      "name": "GCP",
+      "image": "https://img.icons8.com/color/480/google-cloud.png",
+      "category": "Cloud"
+    },
+    {
+      "name": "Netlify",
+      "image": "https://img.icons8.com/external-tal-revivo-light-tal-revivo/96/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-light-tal-revivo.png",
+      "category": "Cloud"
+    },
+    {
+      "name": "Heroku",
+      "image": "https://img.icons8.com/color/480/heroku.png",
+      "category": "Cloud"
+    },
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/480/python--v1.png",
+      "category": "Data Science"
+    },
+    {
+      "name": "Pandas",
+      "image": "https://img.icons8.com/color/480/pandas.png" ,
+      "category": "Data Science"
+    },
+    {
+      "name": "Tensorflow",
+      "image": "https://img.icons8.com/color/480/tensorflow.png",
+      "category": "Data Science"
+    },
+    {
+      "name": "Open CV",
+      "image": "https://img.icons8.com/color/480/opencv.png",
+      "category": "Data Science"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Face Mask Detection",
+      "techstack": "Keras,Open CV",
+      "category": "Data Science",
+      "image": "/face-mask-detect.png",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/AI-Mask-Detection",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Movie Recommender",
+      "techstack": "Numpy, Pandas, NLTK, Streamlit",
+      "category": "Data Science",
+      "image": "/movie_recommender.png",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/AI-Mask-Detection",
+        "video": "",
+        "visit": "https://movie-recommender-sys-tmdb.streamlit.app/"
+      }
+    },
+    {
+      "name": "Sudoku Solver Using OpenCV",
+      "techstack": "Open CV, Keras, Streamlit",
+      "category": "Data Science",
+      "image": "/sudoku_solved.png",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/SudokuSolverApp",
+        "video": "",
+        "visit": "https://sudokusolverapp-cv.streamlit.app/"
+      }
+    },
+    {
+      "name": "Sequential Recommendation System",
+      "techstack": "Pytorch",
+      "category": "Data Science",
+      "image": "/seq_recommendation.png",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/dpp_seq_recommendation",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "TOW-IDS using three wavelet filters",
+      "techstack": "scapy, pandas, numpy,tensorflow, pywt",
+      "category": "Data Science",
+      "image": "/tow-ids.png",
+      "links": {
+        "code": "https://drive.google.com/drive/folders/1LH6Smg2hKdOhm2pgj6ZytBupX_qIKsra?usp=sharing",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Notes Application",
+      "techstack": "HTML, CSS, JS",
+      "category": "Basic Web Development",
+      "image": "/notes.png",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/Notes-App-VanillaJS",
+        "video": "",
+        "visit": "https://personal-notes-app-18442c67c5c4.herokuapp.com/"
+      }
+    },
+    {
+      "name": "Crime Data Visualization",
+      "techstack": "HTML, CSS, JS, D3.JS",
+      "category": "Basic Web Development",
+      "image": "/crime-data-vis.png",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/test_pages.github.io",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Medi Budget",
+      "techstack": "Figma Prototype",
+      "category": "Figma",
+      "image": "/medi-budget.png",
+      "links": {
+        "code": "",
+        "video": "https://www.youtube.com/watch?v=Zd0uwDbSse8",
+        "visit": "https://www.figma.com/proto/la8KCJOzvy9lJIa2YHJsFV/MEDI-BUDGET?type=design&node-id=37-323&t=hOhE0N8PhhH9kSfr-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=29%3A448&show-proto-sidebar=1&mode=design"
+      }
+    },
+    {
+      "name": "Shop Ease: E Commerce Website",
+      "techstack": "React, Firebase",
+      "category": "MERN Stack",
+      "image": "/shop-ease-ecomm.png",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/ShopEase-E-commerce-React-App",
+        "video": "",
+        "visit": "https://e-commerce-react-629c3.web.app/"
+      }
+    },
+    {
+      "name": "Mini Facebook",
+      "techstack": "MongoDB, Express, React, NodeJS ",
+      "category": "MERN Stack",
+      "image": "/mini-fb.png",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/Mini-FB-FrontEnd",
+        "video": "",
+        "visit": "https://lokesh-mini-facebook.netlify.app/"
+      }
+    },
+    {
+      "name": "Travel Stay",
+      "techstack": "MongoDB, Express, React, NodeJS ",
+      "category": "MERN Stack",
+      "image": "/travel-stay.png",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/Mini-FB-FrontEnd",
+        "video": "",
+        "visit": "https://lokesh-mini-facebook.netlify.app/"
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "Vasavi College of Engineering",
+      "imageUrl": "https://images.collegedunia.com/public/college_data/images/logos/1481194789logo.png",
+      "degree": "B.E in Information Technology",
+      "duration": "2018 - 2022",
+      "desc": [
+        "Pursued Bachelors in Information Technology",
+        "Relevant Coursework: Object-Oriented Programming, Advanced Data Structures, Design and Analysis of Algorithms, Database Management Systems, Operating Systems, Artificial Intelligence, Machine Learning, Software Testing, Software Reuse Techniques, Web Development, Natural Language Processing, Computer Vision, Data Communication and Computer Networks, Cryptography and Network Security, Distributed Systems and Cloud Computing",
+        "Skills: Java · MongoDB · Django · Analytical Skills · Cascading Style Sheets (CSS) · Back-End Web Development · C (Programming Language) · Model-View-Controller (MVC) · Web Applications · Web Technologies · Front-End Development · MySQL · Object-Oriented Programming (OOP) · Web Development · Machine Learning · Algorithm Design · Operating Systems · Data Structures"
+      ]
+    },
+    {
+      "institute": "Clemson University",
+      "imageUrl": "https://banner2.cleanpng.com/20190718/vsl/kisspng-clemson-university-clemson-tigers-football-clemson-r6tracker-mason6587-rainbow-six-siege-player-s-5d30d4a1720cc3.1049830515634812494672.jpg",
+      "degree": "Masters in Computer Science",
+      "duration": "2022 - 2023",
+      "desc": [
+        "Pursued Masters in Computer Science",
+        "Relevant Coursework: Statistical Methods , Data Visualization, Advanced Machine Learning, Deep learning in Computer Vision, Intro to Information Retreival, System Administration and Security, Malware Reverse Engineering, Security in Emerging Systems, Distributed/ Cluster Computing, Human and Computer Interaction.",
+        "Skills: OpenCV · Linux · Tableau · Front-End Development · Data Visualization · Linux System Administration · User Interface Design · User Experience (UX)"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ADRIN",
+      "position": "Web Developer",
+      "duration": "July 2021 - Dec 2021",
+      "desc": [
+        "Spearheaded the SMILES SPECIAL SCHOOL web portal demonstrating commitment to community solutions. Used HTML CSS JS and MongoDB for database management.",
+        "Enhanced JavaScript functionality, leading to a 30% improvement in load times. Streamlined data processes to support 100+ autistic children, ensuring seamless platform interactions.",
+        "Skills: HTML · CSS · JavaScript · MongoDB "
+      ]
+    },
+    {
+      "company": "Tutorials Point Pvt Ltd",
+      "imageUrl": "https://indoleads.nyc3.cdn.digitaloceanspaces.com/uploads/offers/logos/8512_92749e1af2bb2.png",
+      "position": "Software Engineer Intern",
+      "duration": "Jan 2022 - May 2023",
+      "desc": [
+        "Authored 150+ high-quality text-based articles on JavaScript for the renowned online learning platform Tutorials Point, resulting in an average of 1k+ views per article.",
+        "The highest-performing article achieved over 200k views, reflecting the content's clarity and applicability",
+        "Received consistent positive feedback, leading to a 20% increase in user interactions and engagement on the platform",
+        "Skills: HTML · CSS · JavaScript · Python "
+      ]
+    }
+  ]
+}
