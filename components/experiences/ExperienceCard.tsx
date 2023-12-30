@@ -1,6 +1,7 @@
 import { MdSchool, MdWork } from 'react-icons/md'
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
+import Image from 'next/image';
 
 interface ExperienceProps {
   index: number,
@@ -10,7 +11,7 @@ interface ExperienceProps {
   institute: string,
   degree: string,
   duration: string,
-  imageUrl: string, // Add this prop for the image URL
+  imageUrl?: string, 
 }
 
 const Experience = ({ index, company, position, desc, institute, degree, duration, imageUrl }: ExperienceProps) => {
@@ -40,9 +41,9 @@ const Experience = ({ index, company, position, desc, institute, degree, duratio
         initial="hidden"
         animate={inView ? 'visible' : 'hidden'}
         className="order-1 rounded-lg w-full ml-3 md:ml-0 bg-white dark:bg-grey-800 md:w-5/12 p-3 md:px-4 md:py-4">
-        <div className="flex items-center space-x-32">
+        <div className="flex items-center justify-between">
           <h3 className="mb-2 font-medium text-lg md:text-xl">{company || institute}</h3>
-          {imageUrl && (<img src={imageUrl} alt="Logo" className="w-14 h-14 md:w-18 md:h-18 rounded-full"/>)}
+          {imageUrl && <Image src={imageUrl} alt="Logo" width={50} height={100} className="rounded-full" />}
         </div>
         <p className="text-sm text-gray-500 dark:text-gray-400 font-medium">{position || degree} | {duration}</p>
         <ul className="text-sm text-gray-400 mt-2 ml-4 list-disc">
