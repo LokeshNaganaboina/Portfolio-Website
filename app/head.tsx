@@ -17,7 +17,7 @@ export default function Head() {
       <meta name="twitter:site" content="" />
       <meta name="application-name" content="Portfolio | Lokesh Naganaboina - Aspiring Software Developer" />
       <meta name="apple-mobile-web-app-title" content="Portfolio | Lokesh Naganaboina - Aspiring Software Developer" />
-      <link rel="icon" href="/favicon.ico" />
+      <link rel="icon" href="/lokesh.ico" />
       <title>Portfolio | Lokesh Naganaboina - Aspiring Software Developer</title>
     </>
   )
