@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Lokesh Naganaboina",
-    "shortDesc": "I am Lokesh Naganaboina, a dedicated Master's student in Computer Science at Clemson University, specializing in Data Science.",
+    "shortDesc": "I am Lokesh Naganaboina, a master's graduate student in Computer Science from Clemson University.",
     "titles": [
       "Software Engineering",
       "Frontend Development",
@@ -20,7 +20,7 @@
     "aboutImage": "/bg_pic.jpg",
     "aboutImageCaption": "< I build stuff 🚀/>",
     "title": "Aspiring Software Developer",
-    "about": "I'm Lokesh Naganaboina, a Master's graduate in Computer Science from Clemson University, specializing in Data Science and Security. My studies covered a range of topics, including Distributed Computing, Data Visualization to Human-Computer Interaction, equipping me with a deep understanding of both Data Science and Cybersecurity. Through Internships, I've applied this knowledge in Software Engineering and Web Development, tackling technical challenges and contributing to team projects. Skilled in Python, JavaScript, and various Front-end and Back-end Technologies, I'm ready to make impactful contributions in Software Engineering.",
+    "about": "I'm Lokesh Naganaboina, a Computer Science Master's graduate from Clemson University with a focus on Data Science and Security. I have hands-on experience in Software Engineering and Web Development through internships, where I addressed technical challenges and collaborated on team projects. Proficient in Python, JavaScript, and front-end and back-end technologies, I am well-prepared to contribute significantly in Software Engineering.",
     "callUrl": "https://us05web.zoom.us/j/9197627233?pwd=bhbFAJ8pyuSbStWgkbZbV5br8xbvI7.1",
     "resumeUrl": "https://drive.google.com/file/d/1AYW3PdWis0UBqVfZQ7PL0bwYFyPEUpjw/view?usp=sharing"
   },
@@ -294,13 +294,13 @@
       "links": {
         "code": "https://github.com/LokeshNaganaboina/test_pages.github.io",
         "video": "",
-        "visit": ""
+        "visit": "https://lokeshnaganaboina.github.io/"
       }
     },
     {
       "name": "Medi Budget",
       "techstack": "Figma Prototype",
-      "category": "Figma",
+      "category": "UI/UX",
       "image": "/medi-budget.png",
       "links": {
         "code": "",
@@ -338,7 +338,7 @@
       "links": {
         "code": "https://github.com/LokeshNaganaboina/Mini-FB-FrontEnd",
         "video": "",
-        "visit": "https://lokesh-mini-facebook.netlify.app/"
+        "visit": "https://travelstayapp.netlify.app/"
       }
     }
   ],
@@ -368,7 +368,18 @@
   ],
   "experiences": [
     {
-      "company": "ADRIN",
+      "company": "Verzeo EduTech",
+      "imageUrl": "/verzeo.png",
+      "position": "Data Science Intern",
+      "duration": "Mar 2021 - May 2021",
+      "desc": [
+        "During my internship at Verzeo, I had the opportunity to immerse myself in the field of Machine Learning, gaining hands-on experience that was both challenging and rewarding. My journey involved working on a variety of projects that allowed me to apply theoretical knowledge in practical scenarios.",
+        "Skills: Machine Learning"
+      ]
+    },
+    {
+      "company": "Advanced Data Processing Research Institute (ADRIN)",
+      "imageUrl": "/adrin.png",
       "position": "Web Developer",
       "duration": "July 2021 - Dec 2021",
       "desc": [
