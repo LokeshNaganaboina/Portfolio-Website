@@ -18,11 +18,11 @@
   },
   "about": {
     "aboutImage": "/bg_pic.jpg",
-    "aboutImageCaption": "< I build stuff 🚀/>",
+    "aboutImageCaption": "< Developer 🚀/>",
     "title": "Aspiring Software Developer",
-    "about": "I'm Lokesh Naganaboina, a Computer Science Master's graduate from Clemson University. I have hands-on experience in Software Engineering and Web Development through internships, where I addressed technical challenges and collaborated on team projects. Proficient in Python, JavaScript, and front-end and back-end technologies, I am well-prepared to contribute significantly in Software Engineering.",
+    "about": "With a Master's in Computer Science degree from Clemson University and a Bachelor's degree from Vasavi College of Engineering, I bring a versatile skill set to the table. As a Software Engineer at Tutorials Point, I excelled in JavaScript and Agile methodologies, enhancing online courses and user satisfaction. My internship at ADRIN showcased expertise in React and MySQL, focusing on accessibility for autistic children. At Verzeo, I drove improvements in user engagement and conversion rates as a Full Stack Software Engineer Intern. My technical skills span programming languages, web technologies, databases, and tools like AWS and Docker. With strong analytical and soft skills, I am poised to excel in computer science and technology roles.",
     "callUrl": "https://us05web.zoom.us/j/9197627233?pwd=bhbFAJ8pyuSbStWgkbZbV5br8xbvI7.1",
-    "resumeUrl": "https://drive.google.com/file/d/1AYW3PdWis0UBqVfZQ7PL0bwYFyPEUpjw/view?usp=sharing"
+    "resumeUrl": "https://drive.google.com/file/d/1jK0cu0TEebe--WQbjPH86xU-UB-qFhHb/view?usp=sharing"
   },
 
   "socials": [
@@ -56,6 +56,21 @@
     {
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/480/javascript--v1.png",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "TypeScript",
+      "image": "https://img.icons8.com/fluency/240/typescript--v1.png",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "PHP", 
+      "image": "https://img.icons8.com/officel/480/php-logo.png",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "JQuery",
+      "image": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png",
       "category": "Programming Languages"
     },
     {
@@ -94,6 +109,16 @@
       "category": "Frontend"
     },
     {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/480/javascript--v1.png",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "TypeScript",
+      "image": "https://img.icons8.com/fluency/240/typescript--v1.png",
+      "category": "Programming Languages"
+    },
+    {
       "name": "React.JS",
       "image": "https://img.icons8.com/ultraviolet/480/react--v1.png",
       "category": "Frontend"
@@ -121,6 +146,11 @@
     {
       "name": "Django",
       "image": "https://img.icons8.com/ios/500/django.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Spring Boot",
+      "image": "https://img.icons8.com/officel/480/spring-logo.png",
       "category": "Backend"
     },
     {
@@ -179,8 +209,8 @@
       "category": "Tools"
     },
     {
-      "name": "Amazon S3",
-      "image": "https://img.icons8.com/color/480/amazon-s3.png",
+      "name": "AWS",
+      "image": "https://img.icons8.com/color/480/amazon-web-services.png",
       "category": "Cloud"
     },
     {
@@ -211,6 +241,11 @@
     {
       "name": "Tensorflow",
       "image": "https://img.icons8.com/color/480/tensorflow.png",
+      "category": "Data Science"
+    },
+    {
+      "name": "PyTorch",
+      "image": "https://img.icons8.com/fluency/240/pytorch.png",
       "category": "Data Science"
     },
     {
@@ -309,17 +344,6 @@
       }
     },
     {
-      "name": "Shop Ease: E Commerce Website",
-      "techstack": "React, Firebase",
-      "category": "MERN Stack",
-      "image": "/shop-ease-ecomm.png",
-      "links": {
-        "code": "https://github.com/LokeshNaganaboina/ShopEase-E-commerce-React-App",
-        "video": "",
-        "visit": "https://e-commerce-react-629c3.web.app/"
-      }
-    },
-    {
       "name": "Mini Facebook",
       "techstack": "MongoDB, Express, React, NodeJS ",
       "category": "MERN Stack",
@@ -328,6 +352,28 @@
         "code": "https://github.com/LokeshNaganaboina/Mini-FB-FrontEnd",
         "video": "",
         "visit": "https://lokesh-mini-facebook.netlify.app/"
+      }
+    },
+    {
+      "name": "WhatsApp Clone",
+      "techstack": "MongoDB, Express, React, NodeJS and Socket.IO ",
+      "category": "MERN Stack",
+      "image": "/whatsapp.svg",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/whatsapp-mern",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Shop Ease: E Commerce Website",
+      "techstack": "React, Firebase",
+      "category": "MERN Stack",
+      "image": "/shop-ease-ecomm.png",
+      "links": {
+        "code": "https://github.com/LokeshNaganaboina/ShopEase-E-commerce-React-App",
+        "video": "",
+        "visit": "https://e-commerce-react-629c3.web.app/"
       }
     },
     {
@@ -370,34 +416,41 @@
     {
       "company": "Verzeo EduTech",
       "imageUrl": "/verzeo.png",
-      "position": "Data Science Intern",
-      "duration": "Mar 2021 - May 2021",
+      "position": "Full Stack Software Engineer Intern",
+      "duration": "June 2020 - Dec 2020",
       "desc": [
         "During my internship at Verzeo, I had the opportunity to immerse myself in the field of Machine Learning, gaining hands-on experience that was both challenging and rewarding. My journey involved working on a variety of projects that allowed me to apply theoretical knowledge in practical scenarios.",
-        "Skills: Machine Learning"
+        "Enhanced the user interface of Verzeo's internship portal, resulting in a 25% increase in internship enrollments.",
+        "Led the development of a dashboard for tracking student progress, resulting in a significant improvement in student retention rates.",
+        "Skills: Front-end Development, UI/UX Design"
       ]
     },
     {
       "company": "Advanced Data Processing Research Institute (ADRIN)",
       "imageUrl": "/adrin.png",
-      "position": "Web Developer",
-      "duration": "July 2021 - Dec 2021",
+      "position": "Web Developer Intern",
+      "duration": "Jan 2021 - June 2021",
       "desc": [
-        "Spearheaded the SMILES SPECIAL SCHOOL web portal demonstrating commitment to community solutions. Used HTML CSS JS and MongoDB for database management.",
-        "Enhanced JavaScript functionality, leading to a 30% improvement in load times. Streamlined data processes to support 100+ autistic children, ensuring seamless platform interactions.",
-        "Skills: HTML · CSS · JavaScript · MongoDB "
+        "Designed and developed a user-friendly web portal for Smiles Special School using React, improving accessibility for 200+ autistic children.",
+        "Integrated MySQL database for user registration and progress tracking, ensuring seamless data management.",
+        "Created an online booking system for therapy sessions, enhancing scheduling efficiency.",
+        "Skills: React, MySQL, UI/UX Design, Problem-Solving, NodeJS, Backend Development"
       ]
     },
     {
       "company": "Tutorials Point Pvt Ltd",
-      "imageUrl": "https://indoleads.nyc3.cdn.digitaloceanspaces.com/uploads/offers/logos/8512_92749e1af2bb2.png",
-      "position": "Software Engineer Intern",
-      "duration": "Jan 2022 - May 2023",
+      "imageUrl": "/t-point.png",
+      "position": "Software Engineer",
+      "duration": "July 2021 - June 2022",
       "desc": [
-        "Authored 150+ high-quality text-based articles on JavaScript for the renowned online learning platform Tutorials Point, resulting in an average of 1k+ views per article.",
-        "The highest-performing article achieved over 200k views, reflecting the content's clarity and applicability",
-        "Received consistent positive feedback, leading to a 20% increase in user interactions and engagement on the platform",
-        "Skills: HTML · CSS · JavaScript · Python "
+        "Utilized Agile Methodologies to collaborate with cross-functional teams in contributing to over 10+ free online courses covering programming databases, Web development and DevOps expanding the platform's reach and impact.",
+        "Introduced automation scripts for updating course content, reducing manual effort by 30%. Ensured the platform stays current with the latest advancements in technology by integrating a CI/CD pipeline for streamlined deployment processes.",
+        "Implemented cross-platform compatibility for tutorials on a wide range of technologies, including Ajax, HTML, CSS, Java, Python, and more, ensuring a seamless user experience across various devices.",
+        "Actively gathered and addressed user feedback to enhance the quality and relevance of educational content, resulting in a 30% improvement in user satisfaction scores.",
+        "Implemented improvements in search and navigation features, making it easier for users to find relevant tutorials and courses, leading to a 20% reduction in search time.",
+        "Conducted Unit testing post-code development to ensure the functionality and quality of implemented features.",
+        "Developed and enhanced online tutorials and courses in various technical subjects, contributing to a library of resources for computer science, programming languages and engineering",
+        "Skills: HTML, CSS, JavaScript, Python, Agile Methodologies"
       ]
     }
   ]
